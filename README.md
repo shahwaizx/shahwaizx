@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahwaizx
 - 👀 I’m interested in building cool projects related to management and I like development.
-- 🌱 I’m currently learning DSA and OOP
+- 🌱 I’m a final year CS Student
 - 📫 You can reach me on my e-mail shahwaizmuhammad98@gmail.com.
 
 <!---
