@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @shahwaizx
-- 👀 I’m interested in building ML projects and personalized bots.
-- 🌱 I’m a final year CS Student
-- 📫 You can reach me on my e-mail shahwaizmuhammad98@gmail.com.
+-  I develop Mobile and Web Applications 
+-  I’m interested in building and integrating ML models in apps.
+-  I have experience in building personalized chatbots.
+-  I’m a final year CS Student
+-  You can reach me on my e-mail shahwaizmuhammad98@gmail.com.
 
 <!---
 shahwaizx/shahwaizx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
