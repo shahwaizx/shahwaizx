@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shahwaizx
--  I develop Mobile and Web Applications 
--  I’m interested in building and integrating ML models in apps and websites.
--  I have experience in building personalized chatbots.
--  I’m a final year CS Student
+-  I develop modern Agent AI applications 
+-  I’m interested in building and integrating AI models in apps and websites.
+-  I have experience in building production grade AI first systems.
 -  You can reach me on my e-mail shahwaizmuhammad98@gmail.com.
 
 <!---
